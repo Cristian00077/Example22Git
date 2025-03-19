@@ -5,7 +5,6 @@ import core.Person;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world");
         
         Person p1 = new Person("Juan", 18, 1234);
         Person p2 = new Person("Luis", 20, 4545);
