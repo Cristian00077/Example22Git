@@ -14,7 +14,7 @@ public class Cat {
 
     @Override
     public String toString() {
-        return  "nombre= " + nombre + ", raza= " + raza + ", edad= " + edad;
+        return  "nombre: " + nombre + ", raza: " + raza + ", edad: " + edad;
     }
     
     
